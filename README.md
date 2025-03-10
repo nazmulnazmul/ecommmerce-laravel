@@ -2,7 +2,7 @@
 
 ## Description:
 
-## Ecommerce Web Application with Laravl - Functionalities Implemented:
+## Ecommerce Web Application with Laravle - Functionalities Implemented:
 
 ### User Authentication (Registration, Login):
 
